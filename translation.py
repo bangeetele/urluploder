@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """   ʜᴇʟʟᴏ😊✋,
-🔅 <a href="https://telegra.ph/file/48875dcbe88ba6f61ccd4.jpg">ᴛʜɪs ɪs ᗰ ᴜᴘʟᴏᴀᴅᴇʀ 🤖 </a>
+🔅 <a href="https://telegra.ph/file/48875dcbe88ba6f61ccd4.jpg">ᴛʜɪs ɪs 𝗚𝗛 𝗨𝗣𝗟𝗢𝗔𝗗𝗘𝗥 🤖 </a>
 🔅 ʟᴇᴛ's ɢᴇᴛ sᴛᴀʀᴛᴇᴅ..🎚️ ʏᴏᴜ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ғɪʟᴇs..📁 ᴘʀᴏᴍᴘᴛʟʏ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴛʜʀᴏᴜɢʜ ᴍᴇ..😊
 
 <b>ᴘʟᴇᴀsᴇ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ..🔗,
